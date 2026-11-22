@@ -54,8 +54,6 @@ flowchart TB
 | 20 | IoT | `10.0.20.0/24` | Smart TV, smart home devices | Internet + Pi-hole DNS only |
 | 30 | Guest | `10.0.30.0/24` | Visitors | Internet only |
 
-Full rules → [`docs/firewall-rules.md`](docs/firewall-rules.md)
-
 ---
 
 ## 🔐 Security Design
