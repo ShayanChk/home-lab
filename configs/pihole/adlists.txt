@@ -1,0 +1,4 @@
+# Blocklists added in Pi-hole (Adlists)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://big.oisd.nl
+https://urlhaus.abuse.ch/downloads/hostfile/

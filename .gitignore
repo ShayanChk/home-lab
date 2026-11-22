@@ -1,0 +1,19 @@
+# Never commit secrets or real configs
+.env
+*.key
+*.pem
+*.pfx
+*password*
+*secret*
+config-*.xml
+opnsense-backup*.xml
+
+# Big files
+*.vmdk
+*.vmx
+*.iso
+*.ova
+
+# OS junk
+.DS_Store
+Thumbs.db
