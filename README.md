@@ -1,9 +1,6 @@
-# 🏠 Home Network Lab — Active Directory, Firewall & Segmentation
+# 🏠 Home Network Lab & Active Directory, Firewall & Segmentation
 
 My home network, built like a small business network: my computers are joined to an **Active Directory domain**, all traffic goes through an **OPNsense firewall**, DNS is filtered by **Pi-hole**, and the network is split into **3 VLANs** so IoT and guest devices can't reach my main machines.
-
-> Built by **Shayan Chabook**, IT Support Specialist working toward a SOC Analyst role.
-> CompTIA Security+ · Network+ · A+ · AZ-900
 
 ---
 
@@ -94,12 +91,3 @@ home-lab/
 - Running AD DS + DNS and joining both Windows and Linux machines to a domain
 - How segmentation limits damage when a device is compromised
 - Using DNS filtering as a cheap, network-wide security control
-
----
-
-## 🔗 Related Projects
-
-- [AD Attack Detection Lab](https://github.com/ShayanChk/AD-attack-detection-lab)
-- [AI Triage + Prompt Injection](https://github.com/ShayanChk/AI-triage-prompt-injection)
-
-📫 [LinkedIn](https://linkedin.com/in/shayan-chabook)
