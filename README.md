@@ -66,24 +66,7 @@ flowchart TB
 
 ---
 
-## 📁 Repo Structure
-
-```
-home-lab/
-├── README.md
-├── docs/
-│   ├── setup.md            ← how I built it, step by step
-│   ├── firewall-rules.md   ← OPNsense rules per VLAN
-│   └── ad-domain-join.md   ← joining Windows + Ubuntu to AD
-├── configs/
-│   ├── opnsense/           ← VLAN / interface notes
-│   └── pihole/             ← Pi-hole setup + blocklists
-└── screenshots/            ← proof it works
-```
-
----
-
-## 📚 What I Learned
+## 📚 Important
 
 - Designing VLANs and firewall rules like a real network
 - Running AD DS + DNS and joining both Windows and Linux machines to a domain
