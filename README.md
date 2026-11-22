@@ -39,7 +39,7 @@ flowchart TB
 | Component | What it does |
 |---|---|
 | **OPNsense (VM)** | Router + firewall. Handles VLANs, DHCP, and the rules between subnets |
-| **Windows Server (AD DS)** | Domain Controller: central logins, Group Policy, internal DNS |
+| **Windows Server (AD)** | Domain Controller: central logins, Group Policy, internal DNS |
 | **Pi-hole (Raspberry Pi 3)** | DNS filtering: blocks ads, trackers and known-bad domains for the whole network |
 | **Domain-joined computers** | Surface Laptop 7 (Windows on ARM), Ubuntu server, Lab PC |
 | **VLANs** | Main / IoT / Guest, each on its own subnet |
